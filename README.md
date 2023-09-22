@@ -41,3 +41,6 @@ pip install pytest
 ```
 pip install flake8
 ```
+
+**Автор:**
+[Elina Mustafaeva](https://github.com/Elllym-em)
